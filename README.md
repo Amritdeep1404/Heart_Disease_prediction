@@ -18,7 +18,7 @@ Pandas & NumPy (For data processing)
 Matplotlib & Seaborn (For data visualization)
 
 # Clone the repository:
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git https://github.com/Amritdeep1404/Heart_Disease_prediction.git
 cd heart-disease-prediction
 
 # Install dependencies:
